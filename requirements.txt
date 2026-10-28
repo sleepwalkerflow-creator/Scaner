@@ -1,0 +1,2 @@
+ccxt
+aiogram>=3.4
